@@ -1,8 +1,8 @@
 # python-crawler
 Record code instances during python crawler learning
-request1: 爬取搜狗首页的页面数据
-request2:输入相关信息，爬取搜狗浏览器响应的网址
-request3:破解百度翻译
-request4:爬取豆瓣电影分类排行榜中的电影详情数据
-zhengze:爬取头像网中图片数据
-zhengze2:爬取头像网中所有的头像图片
+request1: Crawl Sogou home page data
+request2:Enter the relevant information and crawl to the URL that the dog browser responds to
+request3:Crack Baidu Translate
+request4:Climb the movie details data in the Douban Movie category ranking
+zhengze:Climb the picture data in the profile picture network
+zhengze2:Crawl all the profile pictures in the profile picture network
